@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 CI/CD con GitHub Actions y Google Cloud Run
 
 Pipeline de despliegue automático de una aplicación Node.js/Express hacia Google Cloud Run, usando Workload Identity Federation para autenticación sin claves secretas.
@@ -359,3 +360,7 @@ gcloud logging read "resource.type=cloud_run_revision AND resource.labels.servic
 ---
 
 *Universidad de Boyacá • 2026 • github.com/mafeopa*
+=======
+# cicdtraining
+Proyecto de aprendizaje de Git, GitHub Actions y CI/CD
+>>>>>>> 60c34471672fde5cde726e8669faa93e1d010966
